@@ -171,6 +171,7 @@
        ;;sml
        ;;solidity          ; do you need a blockchain? No.
        ;;swift             ; who asked for emoji variables?
+       tangram-typescript  ; Edit tangram .tg files using the LSP, as nature intended.
        ;;terra             ; Earth and Moon in alignment for performance.
        web               ; the tubes
        yaml              ; JSON, but readable
