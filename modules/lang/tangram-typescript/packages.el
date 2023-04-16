@@ -6,8 +6,5 @@
 (package! lsp-mode)
 (package! typescript-mode)
 
-;(package! tg-mode
-;  :recipe (:host github :repo "deciduously/tg-mode"))
-
 (package! tg-mode
 	:recipe (:local-repo "/home/deciduously/code/tg-mode"))
